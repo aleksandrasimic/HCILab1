@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>BEST Niš</title>
+        <!-- Ikonica za sajt -->
+        <link rel="icon" type="image/x-icon" href="assets/ikonica.ico" />
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+            <div class="container">
+                <a class="navbar-brand" href="#page-top"><img src="assets/img/BEST_logo.png" alt="..." /></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Meni
+                    <i class="fas fa-bars ms-1 lg-1"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+				        <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
+					    <li class="nav-item"><a class="nav-link" href="#onama">O nama</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#mogucnosti">Mogućnosti</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#portfolio">Projekti</a></li>             
+                        <li class="nav-item"><a class="nav-link" href="#team">Tim</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contact">Učlani se</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Početak -->
+        <header class="masthead">
+            <div class="container">    
+				<div class="masthead-subheading">Zvaničan sajt studentske organizacije BEST Niš</div>            
+                <div class="masthead-heading text-uppercase">Dobrodošli!</div>				
+                <a class="btn btn-primary btn-xl text-uppercase" href="#contact">Postani deo tima</a>
+            </div>
+        </header>
+		 <!-- O nama -->
+        <section class="page-section" id="onama">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">O nama</h2>
+                    <h3 class="section-subheading text-muted">Hajde da se upoznamo!</h3>
+                </div>
+                <ul class="timeline">
+                    <li>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/onama/1.jpg" alt="..." /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">                                
+                                <h4 class="subheading">Kako je sve počelo?</h4>			
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">Lokalna BEST grupa Niš (LBG Niš) je zvanično u članstvo BEST-a primljena 12. januara 2007. kao posmatračka grupa, da bi na Generalnoj Skupštini u Budimpešti aprila 2009. stekla punopravno članstvo.</p></div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/onama/2.png" alt="..." /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">                                
+                                <h4 class="subheading">Ko smi mi?</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">BEST (Board of European Students of Technology) je neprofitna i apolitična studentska organizacija koju sačinjavaju i vode isključivo studenti. Organizaciju čine 90 lokalnih BEST grupa na isto toliko univerziteta, sa preko 3300 aktivnih članova u 31 zemlje širom Evrope. Svaka od ovih grupa ima svoj lokalni izvršni odbor i organizuje brojne lokalne i internacionalne BEST događaje (projekte).</p></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/onama/3.jpg" alt="..." /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">                        
+                                <h4 class="subheading">Zašto baš BEST?</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">BEST nastoji da pomogne studentima tehnoloških fakulteta Evrope da postanu više  internacionalno nastrojeni, postižući bolje razumevanje Evropskih kultura i razvijajući kapacitete za rad na međunarodnoj osnovi.</p></div>
+                        </div>
+                    </li>                   
+                    <li class="timeline-inverted">
+                        <div class="timeline-image">
+                            <h4>
+                                Razmišljaš
+                                <br />
+                                da se
+                                <br />
+                                učlaniš?
+                            </h4>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <!-- Mogućnosti -->
+        <section class="page-section" id="mogucnosti">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Mogućnosti</h2>
+                    <h3 class="section-subheading text-muted">Nudimo brojne mogućnosti studentima, a naši članovi imaju koristi od mnoštva aktivnosti gde mogu da ostvare svoje potencijale i poboljšaju sebe. Naš prioritet je pružanje visokokvalitetnih usluga studentima širom Evrope. Tako uspevamo da približimo sve partnere u trouglu „student – kompanija – univerzitet“. </h3>
+                </div>
+                <div class="row text-center">
+                    <div class="col-lg-6 col-sm-6">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Podrška u karijeri</h4>
+                        <p class="text-muted">Umrežavanje je bitan koncept u bilo kojoj profesiji, a uz BEST možeš da stupiš u kontakt svojim budućim poslodavcima kroz rad u nekom od naših timova ili učestvujući u nekim od naših projekata. Mi omogućavamo direktan kontakt studenata i kompanija.</p>
+                    </div>
+                    <div class="col-lg-6 col-sm-6">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-address-card fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Lično usavršavanje</h4>
+                        <p class="text-muted">BEST pruža priliku za sticanje organizacionih veština i liderskog iskustva. Kroz naše timove i projekte možeš da stekneš veštine i iskustvo u PR, HR, FR i IT sektorima. BEST je savršeno mesto za usavršavanje tvojih mekih veština poput upravljanja vremenom, liderstvo, izgradnja tima, rada u timu, upravljanja projektima, veština komunikacije i znanje engleskog jezika.</p>
+                    </div>
+                    <div class="col-lg-6 col-sm-6">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-user-friends fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Prijateljstvo</h4>
+                        <p class="text-muted">Gradimo dobre odnose u kojima ljudi pomažu, podržavaju i brinu jedni za druge. Uživamo zajedno u svemu što radimo.</p>
+                    </div>
+					<div class="col-lg-6 col-sm-6">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-car fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Putovanja širom Evrope</h4>
+                        <p class="text-muted">BEST ti omogućava da putuješ širom Evrope uz minimalne troškove. Bilo putem naših međunarodnih kurseva koji mogu doprineti vašem obrazovanju ili samo želiš da spakuješ ranac i da odeš negde drugde, samo treba da platiš kartu za put a mi ćemo se pobrinuti za sve ostalo.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Projekti -->
+        <section class="page-section bg-light" id="portfolio">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Projekti</h2>
+                    <h3 class="section-subheading text-muted">BEST pruža svojim članovima mogućnost za lični razvoj i sticanje personalnih veština kroz učešće ili organizaciju različitih projekata. BEST omogućava studentima da stupe u kontakt sa sadašnjim i budućim liderima u tehnologiji i biznisu.</h3>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-sm-6 mb-6">
+                        <!-- JobFair -->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/projekti/JobFair.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">JobFair</div>                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-sm-6 mb-6">
+                        <!-- EBEC -->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/projekti/EBEC.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">EBEC</div>                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-sm-6 mb-6">
+                        <!-- SC -->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/projekti/SC.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">Summer course</div>                                
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col-lg-6 col-sm-6 mb-6 mb-lg-0">
+                        <!-- AIBG -->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/projekti/AIBG.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">AIBG</div>                               
+                            </div>
+                        </div>
+                    </div>                    
+                </div>
+            </div>
+        </section>       
+        <!-- Tim-->
+        <section class="page-section bg-light" id="team">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Tim</h2>
+                    <h3 class="section-subheading text-muted">Upoznaj studente koji vode našu organizaciju</h3>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="assets/img/tim/1.png" alt="..." />
+                            <h4>Petar Petrović</h4>
+                            <p class="text-muted">Predsednik</p>
+							    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+								<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+								<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-instagram"></i></a>                                                  
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="assets/img/tim/2.png" alt="..." />
+                            <h4>Lazar Lazarević</h4>
+                            <p class="text-muted">Sekretar</p>
+                                <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+								<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+								<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-instagram"></i></a> 
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="assets/img/tim/3.png" alt="..." />
+                            <h4>Ivana Ivanović</h4>
+                            <p class="text-muted">Blagajnik</p>
+                                <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+								<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+								<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-instagram"></i></a> 
+                        </div>
+                    </div>
+                </div>            
+                </div>
+            </div>
+        </section>
+        <!-- Učlani se -->
+        <section class="page-section" id="contact">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Učlani se</h2>
+                </div>           
+                <!-- https://startbootstrap.com/solution/contact-forms-->
+                <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+                    <div class="row align-items-stretch mb-5">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <!-- Ime i prezime -->
+                                <input class="form-control" id="name" type="text" placeholder="Ime i prezime*" data-sb-validations="required" />
+                                <div class="invalid-feedback" data-sb-feedback="name:required">Obavezno polje.</div>
+                            </div>
+                            <div class="form-group">
+                                <!-- E-mail -->
+                                <input class="form-control" id="email" type="email" placeholder="E-mail*" data-sb-validations="required,email" />
+                                <div class="invalid-feedback" data-sb-feedback="email:required">Obavezno polje.</div>
+                                <div class="invalid-feedback" data-sb-feedback="email:email">Neispravno uneto polje.</div>
+                            </div>
+                            <div class="form-group mb-md-0">
+                                <!-- Broj telefona -->
+                                <input class="form-control" id="phone" type="tel" placeholder="Broj telefona*" data-sb-validations="required" />
+                                <div class="invalid-feedback" data-sb-feedback="phone:required">Obavezno polje.</div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group form-group-textarea mb-md-0">
+                                <!-- Motivaciono pismo -->
+                                <textarea class="form-control" id="message" placeholder="Zašto želiš da nam se priključiš?*" data-sb-validations="required"></textarea>
+                                <div class="invalid-feedback" data-sb-feedback="message:required">Obavezno polje.</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Uspešna prijava -->
+                    <div class="d-none" id="submitSuccessMessage">
+                        <div class="text-center text-white mb-3">
+                            <div class="fw-bolder">Prijava je uspešno poslata!</div>
+                            <!-- Aktiviranje forme -->
+                            <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
+                        </div>
+                    </div>
+                    <!-- Greška pri slanju -->
+                    <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Greška pri slanju!</div></div>
+                    <!-- Slanje prijave -->
+                    <div class="text-center"><button class="btn btn-primary btn-xl text-uppercase disabled" id="submitButton" type="submit">Pošalji prijavu</button></div>
+                </form>
+            </div>
+        </section>
+        <!-- Footer -->
+        <footer class="footer py-4">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-3 text-lg-start">Copyright &copy; BEST Niš 2022</div>
+                    <div class="col-lg-6 my-3 my-lg-0">                   
+                        
+                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+						<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+						<a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+		<!-- Sadržaj projekata --> 
+        <!-- JobFair -->     
+        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/x.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">                                    
+                                    <h2 class="text-uppercase">JobFair</h2>                                   
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projekti/JobFair.jpg" alt="..." />
+                                    <p>Job Fair je nastao kao ispiracija naše organizacije da upotpunimo vezu između studenata i poslodavaca. Mogućnost i pristup kompanijama tokom studiranja je glavni preduslov da svaki student razvije svest o problemima sa kojima može da se suoči prilikom zapošljavanja. Traganje i težnja za kvalitetnim radnim mestom u struci svakako je važan i bitan aspekt svesti svakog pojedinca. Na univerzitetima u zemlji godišnje diplomira veliki broj mladih entuzijasta, sa velikim ambicijama i motivacijom za rad. Naš cilj je da tim mladim ljudima omogućimo sticanje iskustva i neformalnog obrazovanja u toku studiranja, kao i zapošljavanje i napredovanje u struci.</p>                                    
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- EBEC-->
+        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/x.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">                                   
+                                    <h2 class="text-uppercase">EBEC</h2>                                   
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projekti/EBEC.jpg" alt="..." />
+                                    <p>EBEC (European BEST Engineering Competition) inženjersko takmičenje predstavlja nadmetanje više timova sastavljenih od studenata koji nastoje da postavljeni zadatak reše na najbolji mogući način, u smislu cene, inovativnosti i performansi. Ključni faktori uspeha su dobra komunikacija unutar tima, kreativnost i domišljatost. Takmičenje se obično priređuje u dve kategorije: Case Study – gde takmičari imaju za zadatak da nađu idejno rešenje za određeni tehnički ili menadžmentski problem. Pobeda ne zavisi samo od kvaliteta rešenja već i od prezentacije istog i međusobne komunikacije takmičara u timu. Innovative Design – takmičarima se dodeljuje praktični problem koji će moći da sagledaju iz više aspekata, zatim će osmisliti, prezentovati i argumentovati svoje inovativno rešenje uz izradu nekog vida prototipa. Fokus više nije samo na mehaničkim performansama rešenja, već i na stepenu njegove inovativnosti, efektivnosti i uspešnosti. Inženjersko takmičenje EBEC se održava u tri nivoa – lokalno, regionalno i evropsko.</p>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- SC -->
+        <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/x.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">                                   
+                                    <h2 class="text-uppercase">Summer course</h2>                                    
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projekti/SC.jpg" alt="..." />
+                                    <p>Tokom svog postojanja, organizovali smo jedanaest međunarodnih letnjih akademskih BEST kurseva. Svi kursevi se održavaju u periodu od 20-30. Jula i sadrže predavanja, treninge i radionice. Studenti sa univerziteta u Nišu, kao i studenti sa univerziteta širom Evrope, imaju mogućnosti da se prijave i nauče nešto o datoj temi kursa. Predavanja obično drže profesori kao i predstavnici kompanija koji su vodeći u datom sektoru koji tema kursa obuhvata. Naš poslednji kurs nosio je naziv „A Blockchain Reaction“.</p>
+                                                                     
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- AIBG -->
+        <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/x.svg" alt="Close modal" /></div>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="modal-body">                                    
+                                    <h2 class="text-uppercase">AIBG</h2>                                   
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projekti/AIBG.jpg" alt="..." />
+                                    <p>AIBG je takmičenje iz oblasti veštačke inteligencije namenjeno studentima do 26 godina starosti koji će se takmičiti u unapred pripremljenom okruženju - igrici.</p>                                 
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="js/scripts.js"></script>
+        <!-- Aktiviranje forme na https://startbootstrap.com/solution/contact-forms -->
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    </body>
+</html>
